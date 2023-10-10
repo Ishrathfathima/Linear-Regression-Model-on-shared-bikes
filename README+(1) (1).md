@@ -18,7 +18,7 @@ Based on various meteorological surveys and people's styles, the service provide
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+  
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -66,13 +66,13 @@ So, it's suggested to consider these variables utmost importance while planning,
 ## Technologies Used
 - jupyter notebook
 - librarys used are:
-  numpy
-  panda
-  matplotlib
-  seaborn
-  feature_selection 
-  linear_model 
-  variance_inflation_factor
+  numpy<br>
+  panda<br>
+  matplotlib<br>
+  seaborn<br>
+  feature_selection<br> 
+  linear_model <br>
+  variance_inflation_factor<br>
   statsmodels
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
