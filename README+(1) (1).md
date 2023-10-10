@@ -65,7 +65,7 @@ So, it's suggested to consider these variables utmost importance while planning,
 
 ## Technologies Used
 - jupyter notebook
-- librarys used are:
+- librarys used are:<br>
   numpy<br>
   panda<br>
   matplotlib<br>
